@@ -1,0 +1,6 @@
+@PlayWrightSample.Server_HostAddress = http://localhost:5240
+
+GET {{PlayWrightSample.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
